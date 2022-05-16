@@ -135,9 +135,6 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Computer Vision 2](http://cvlab-dresden.de/courses/CV2/) Carsten Rother (TU Dresden):
  * [Multiple View Geometry](https://youtu.be/RDkwklFGMfo?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) Daniel Cremers (TU Munich):
 
-
-
-
 #### Computational Photography
 * [Image Manipulation and Computational Photography](http://inst.eecs.berkeley.edu/~cs194-26/fa14/) - Alexei A. Efros (UC Berkeley)
 * [Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/2012_fall/463.html) - Alexei A. Efros (CMU)
@@ -167,8 +164,6 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) - Charles Isbell, Michael Littman (Georgia Tech)
  * [(Convolutional) Neural Networks for Visual Recognition](https://cs231n.github.io/) - Fei-Fei Li, Andrej Karphaty, Justin Johnson (Stanford University)
  * [Machine Learning for Computer Vision](https://youtu.be/QZmZFeZxEKI?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl) - Rudolph Triebel (TU Munich)
-
-
 
 #### Optimization
  * [Convex Optimization I](http://stanford.edu/class/ee364a/) - Stephen Boyd (Stanford University)
@@ -318,7 +313,6 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Floating Scale Surface Reconstruction](http://www.gris.informatik.tu-darmstadt.de/projects/floating-scale-surface-recon/)
 * [Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
 * [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list)
-
 
 #### Feature Detection and Extraction
 * [VLFeat](http://www.vlfeat.org/)
@@ -731,7 +725,6 @@ Non-uniform Deblurring
 #### Aerial images
  # [Aerial Image Segmentation](https://zenodo.org/record/1154821#.WmN9kHWnHIp) - Learning Aerial Image Segmentation From Online Maps
 
-
 ## Resources for students
 
 #### Resource link collection
@@ -757,7 +750,6 @@ Non-uniform Deblurring
  * [Good Writing](http://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm) - Marc H. Raibert (Boston Dynamics, Inc.)
  * [How to Write a Computer Vision Paper](http://web.engr.illinois.edu/~dhoiem/presentations/How%20to%20Write%20a%20Computer%20Vison%20Paper.ppt) - Derek Hoiem (UIUC)
  * [Common mistakes in technical writing](http://www.cs.dartmouth.edu/~wjarosz/writing.html) - Wojciech Jarosz (Dartmouth College)
-
 
 #### Presentation
  * [Giving a Research Talk](http://people.csail.mit.edu/fredo/TalkAdvice.pdf) - Frédo Durand (MIT)
@@ -786,7 +778,7 @@ Non-uniform Deblurring
  * [AI Shack](http://aishack.in/) - Utkarsh Sinha
  * [Computer Vision Talks](http://computer-vision-talks.com/) - Eugene Khvedchenya
  * [Computer Vision Basics with Python Keras and OpenCV](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) - Jason Chin (University of Western Ontario)
-
+ * [Learn Computer Vision](https://developer.nvidia.com/blog/?tags=&categories=computer-vision)
 
 ## Links
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
